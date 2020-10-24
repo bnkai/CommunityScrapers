@@ -38,12 +38,15 @@ Supported Site|Scraper
 adultdvdmarketplace.com|AdultDvdMarketPlace.yml
 adultdvdempire.com|AdultEmpire.yml
 aebn.com|AEBN.yml
+digitalplayground.com|MindGeek.yml
 evilangel.com|GammaEntertainment.yml
 iafd.com|Iafd.yml
+javlibrary.com (+mirror)|javlibrary.yml
 julesjordan.com|JulesJordan.yml
+newsensations.com|NewSensationsMain.yml
 private.com|Private.yml
 streaming.iafd.com|IafdStreaming.yml
-transsensual.com|TransSensual.yml
+transsensual.com|MindGeek.yml
 
 ## Performer Scrapers
 This list is meant to keep track of which sites are already supported by existing community scrapers. And which scrapers support them. When introducing a new scraper, add the sites your scraper supports to this list in your PR. Please keep the site list in alphabetical order to keep the list tidy.
@@ -54,16 +57,17 @@ assholefever.com|GammaEntertainment.yml
 babepedia.com|Babepedia.yml
 brazzers.com|Brazzers.yml
 evilangel.com|GammaEntertainment.yml
-freeones.xxx|FreeonesCommunity.yml
+freeones.com|FreeonesCommunity.yml
 iafd.com|Iafd.yml
 julesjordan.com|JulesJordan.yml
 manyvids.com|ManyVids.yml
 metadataapi.net|ThePornDB.yml
-MindGeek (29 sites)|MindGeek.yml
+MindGeek (31 sites)|MindGeek.yml
 modelhub.com|Modelhub.yml
 pornhub.com|Pornhub.yml
 realitykings.com|Brazzers.yml
 sexvr.com|SexVR.yml
+stasyq.com|StasyQ.yml
 thenude.com|TheNude.yml
 timtales.com|TimTales.yml
 xslist.org|Xslist.yml
